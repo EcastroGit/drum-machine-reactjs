@@ -5,4 +5,5 @@ Este proyecto lo desarrollé como parte de mi certificación en librerías de de
 ## características
 
 ![Drum Machine](./public/og-drum-machine.png)
+
 [Click para ver la versión en vivo del proyecto](https://codepen.io/ecastroc/full/VwVymmY)
